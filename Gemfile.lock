@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    apns_provider_api (1.0.0)
+      http-2 (~> 0.7.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    http-2 (0.7.0)
+    rake (10.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  apns_provider_api!
+  bundler (~> 1.10)
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.11.2
